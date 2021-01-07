@@ -30,8 +30,7 @@ html
     box-sizing: border-box;
     font-family: var(--ff-title);
     color: var(--clr-text);
-    background-color: var(--clr-primary);
-    
+    background-color: #4b4b4b;
 }
 
 a
@@ -43,7 +42,6 @@ a
     text-align: center;
     font-size: 25px;
     text-decoration: none;
-    background: var(--clr-othertext);
 }
 
 img
@@ -59,18 +57,15 @@ h1, h2, h3, p
 {
     font-family: var(--ff-title);
     line-height: 1;
-    background: var(--clr-othertext);
     text-align: center;
 }
 .about-text
 {
     color: var(--clr-link);
-    background: var(--clr-othertext);
     text-align: center;
 }
 .sub-header
 {
     text-align: center;
     color: var(--clr-text);
-    background-color: transparent;
 }
